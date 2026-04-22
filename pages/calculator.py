@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Basic Calculator", page_icon="🧮", layout="centered")
+st.set_page_config(page_title="Basic Calculator", page_icon="F", layout="centered")
 
 st.title("🧮 Basic Calculator")
 
