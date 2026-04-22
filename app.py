@@ -1,11 +1,11 @@
 import streamlit as st
 
-st.set_page_config(page_title="My Portfolio", page_icon="🚀", layout="wide")
+st.set_page_config(page_title="My Portfolio", page_icon="BioI", layout="wide")
 
-st.title("🚀 My Streamlit Portfolio")
+st.title("The BioInnovators Toolkit")
 
 st.markdown("""
-Welcome to my portfolio of Streamlit apps! This is a collection of mini-applications I've built.
+Welcome to my portfolio of Streamlit apps! This is a collection of mini-applications I've built to accelerate the biodesign process.
 
 Navigate using the sidebar to explore different apps.
 """)
